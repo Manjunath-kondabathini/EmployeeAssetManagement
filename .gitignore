@@ -1,0 +1,15 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore Eclipse project files
+.settings/
+.project
+.classpath
+
+# Ignore build folders
+bin/
+target/
+
+# Ignore temporary files
+*.log
+*.tmp
